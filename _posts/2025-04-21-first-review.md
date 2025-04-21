@@ -19,4 +19,4 @@ date: 2025-04-21 09:00:00 +0900
 
 ## 総合評価＆おすすめポイント  
 瀬戸環奈の“素”と“大人の魅力”が同居した一作。グラビアでは味わえない新たな一面にメロメロ必至！興奮とドキドキを同時に味わいたい人にはマスト。正直、観終わった瞬間「もう一度リピートしよう…！」と思わせる破壊力があります。
-<a href="[ここにあなたのAFFILIATE_LINKを入れる](https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsone00614%2F&af_id=osusumeofme-001&ch=search_link&ch_id=link)">作品を見る</a>
+[ここから見る！](https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsone00614%2F&af_id=osusumeofme-001&ch=search_link&ch_id=link)
