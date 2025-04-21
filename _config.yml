@@ -4,3 +4,9 @@ title: "erotic-review"        # あなたのサイト名
 description: "おすすめを紹介するレビューサイトです"  # サイトの短い説明
 theme: jekyll-theme-cayman   # ここでテーマ名を指定
 # ────────────────────────────
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
