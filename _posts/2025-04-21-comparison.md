@@ -41,9 +41,7 @@ AV作品の視聴方法は主に「レンタル」「ダウンロード購入」
 ### 購入リンク
 
 - レンタル動画をチェック：  
-  <a href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fdigital%2Fvideo_rental%2F" target="_blank" rel="nofollow noopener">
-    レンタル動画をチェック
-  </a>
+  <ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=osusumeofme-001&banner_id=67_300_250"></script>
 
 - ダウンロード作品を見る：  
   <ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=osusumeofme-001&banner_id=79_300_250"></script>
