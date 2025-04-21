@@ -1,6 +1,5 @@
 ---
 title: "erotic-review へようこそ"
-  paginate: 10
 ---
 
 # erotic-review とは  
