@@ -38,32 +38,19 @@ AV作品の視聴方法は主に「レンタル」「ダウンロード購入」
 
 ぜひご自身の視聴スタイルに合わせて選んでみてください！  
 
+### 購入リンク
 
-<!-- 1．レンタル動画一覧ページ用リンク -->
-<a
-  href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fdigital%2Fvideoa%2F-%2Flist%2F%3D%2Ffloor%3Dvideo_rental%2F"
-  target="_blank"
-  rel="nofollow noopener"
->
-  レンタル動画をチェック
-</a>
+- レンタル動画をチェック：  
+  <a href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fdigital%2Fvideo_rental%2F" target="_blank" rel="nofollow noopener">
+    レンタル動画をチェック
+  </a>
 
-<!-- 2．ダウンロード購入作品一覧ページ用リンク -->
-<a
-  href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fdigital%2Fvideoa%2F-%2Flist%2F%3D%2Ffloor%3Dvideo_purchase%2F"
-  target="_blank"
-  rel="nofollow noopener"
->
-  ダウンロード作品を見る
-</a>
+- ダウンロード作品を見る：  
+  <a href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fdigital%2Fvideo_purchase%2F" target="_blank" rel="nofollow noopener">
+    ダウンロード作品を見る
+  </a>
 
-<!-- 3．定額見放題サービス（サブスク）ページ用リンク -->
-<a
-  href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fvideofull%2F-%2Flist%2F%3D%2Ffloor%3Dvideo_subscription%2F"
-  target="_blank"
-  rel="nofollow noopener"
->
-  定額見放題サービスを試す
-</a>
-
-
+- 定額見放題サービスを試す：  
+  <a href="https://affiliate.dmm.com/ad/link_tool?affiliate_id=osusumeofme-001&url=https%3A%2F%2Fwww.dmm.com%2Fvideo_full%2Fvideo_subscription%2F" target="_blank" rel="nofollow noopener">
+    定額見放題サービスを試す
+  </a>
