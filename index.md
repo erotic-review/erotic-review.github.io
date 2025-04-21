@@ -9,19 +9,10 @@ title: "erotic-review へようこそ"
 ## 最新記事一覧
 
 <ul>
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <small>— {{ post.date | date: "%Y-%m-%d" }}</small>
     </li>
   {% endfor %}
 </ul>
-
-<nav>
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">← 新しい記事へ</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">古い記事へ →</a>
-  {% endif %}
-</nav>
