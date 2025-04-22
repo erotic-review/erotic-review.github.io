@@ -8,23 +8,12 @@ title: "AVレビュー｜18+｜erotic-review へようこそ"
 
 <!-- CTAボタン -->
 <div style="text-align:center; margin:1em 0;">
-  <a
-    href="【あなたのDMMアフィリエイトリンク】"
-    target="_blank" rel="nofollow noopener"
-    style="
-      display:inline-block;
-      background-color:#e60023;
-      color:#ffffff;
-      padding:1em 2em;
-      width:100%;
-      max-width:400px;
-      text-decoration:none;
-      font-size:1.2em;
-      border-radius:0.5em;
-    "
-  >
+  <a href="https://affiliate.example.com/…"
++    class="cta-button"
++    target="_blank"
++    rel="nofollow noopener">
     ▶ 今すぐ視聴（割引）
-  </a>
+ 
 </div>
 
 
