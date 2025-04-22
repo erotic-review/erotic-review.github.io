@@ -8,11 +8,11 @@ title: "AVレビュー｜18+｜erotic-review へようこそ"
 
 <!-- CTAボタン -->
 <div style="text-align:center; margin:1em 0;">
-  <a href="https://affiliate.example.com/…"
-+    class="cta-button"
-+    target="_blank"
-+    rel="nofollow noopener">
-    ▶ 今すぐ視聴（割引）
+
+  <a href="https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=sone00614/?i3_ref=list&i3_ord=4&i3_pst=1" class="cta-button" target="_blank" rel="nofollow noopener">
+  ▶ 今すぐ視聴（割引）
+</a>
+
  
 </div>
 
