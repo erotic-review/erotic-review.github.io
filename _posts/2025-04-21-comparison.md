@@ -41,10 +41,10 @@ AV作品の視聴方法は主に「レンタル」「ダウンロード購入」
 ### 購入リンク
 
 - レンタル動画をチェック：  
-  <ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=osusumeofme-001&banner_id=67_300_250"></script>
+  [ここから見る！](https://video.dmm.co.jp/)
 
 - ダウンロード作品を見る：  
-  <ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=osusumeofme-001&banner_id=79_300_250"></script>
+  [ここから見る！](https://video.dmm.co.jp/av/list/?key=%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%82%BB%E3%83%BC%E3%83%AB%7C20%EF%BC%85OFF%7C30%EF%BC%85OFF%7C50%EF%BC%85OFF%7C70%EF%BC%85OFF%7C%E6%97%A5%E6%9B%BF%E3%82%8F%E3%82%8A%E3%82%BB%E3%83%BC%E3%83%AB%7C10%E5%86%86%E3%82%BB%E3%83%BC%E3%83%AB&sort=suggest)
 
 - 定額見放題サービスを試す：  
-  <ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=osusumeofme-001&banner_id=1478_300_250"></script>
+  [ここから見る！](https://www.dmm.co.jp/monthly/)
